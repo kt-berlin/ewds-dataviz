@@ -1,0 +1,1 @@
+wget -q -O UK-HPI-full-file-2024-09.csv "https://publicdata.landregistry.gov.uk/market-trend-data/house-price-index-data/UK-HPI-full-file-2024-10.csv?utm_medium=GOV.UK&utm_source=datadownload&utm_campaign=full_fil&utm_term=9.30_18_12_24"
